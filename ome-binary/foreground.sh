@@ -1,0 +1,1 @@
+echo "Waiting to complete awscli installation"; while [ ! -f /opt/.backgroundfinished ] ; do sleep 2; done; echo "Done"

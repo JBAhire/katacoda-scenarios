@@ -1,2 +1,3 @@
 apt install awscli -y
-git clone https://github.com/last9/openmetrics-exporter
+echo "done" >> /opt/.backgroundfinished
+git clone https://github.com/last9/openmetrics-registry

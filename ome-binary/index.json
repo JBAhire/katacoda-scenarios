@@ -1,6 +1,6 @@
 {
   "title": "openmetrics-exporter using binary",
-  "description": "Try exporting RDS metrics using openmetrics-exporter using binary",
+  "description": "Export Amazon RDS metrics using openmetrics-exporter using binary",
   "difficulty": "Beginner",
   "time": "10",
   "details": {

@@ -1,1 +1,2 @@
-echo "Waiting to complete awscli installation"; while [ ! -f /opt/.backgroundfinished ] ; do sleep 2; done; echo "Done"
+echo "Waiting for awscli installation to complete"; 
+while [ ! -f /opt/.backgroundfinished ] ; do sleep 2; done; echo "Ready to roll!"

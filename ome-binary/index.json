@@ -19,11 +19,13 @@
       },
       {
         "title": "Step 4",
-        "text": "step4.md"
+        "text": "step4.md",
+        "code": "cd-step-4.sh"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "background.sh"
     },
     "finish": {
       "text": "finish.md"

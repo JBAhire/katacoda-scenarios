@@ -20,12 +20,12 @@
       {
         "title": "Step 4",
         "text": "step4.md",
-        "code": "cd-step-4.sh"
+        "courseData": "cd-step-4.sh"
       }
     ],
     "intro": {
       "text": "intro.md",
-      "code": "background.sh"
+      "courseData": "background.sh"
     },
     "finish": {
       "text": "finish.md"
